@@ -1,0 +1,27 @@
+
+.ingred{
+    background-color: rgb(240, 45, 19);
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+nr {
+    font-weight: bold;
+}
+
+.ancestor .child{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+}
+
+.override{
+    color: red;
+}
+
+.ingred.btn{
+    background-color: rgb(146, 35, 35);
+    color: blue;
+}
+
+
